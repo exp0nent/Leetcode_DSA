@@ -5,7 +5,7 @@ int main() {
     int r;
     cin >> r;
 
-    float c = 3.14 * pow(r, 2);
+    float c = 3.14 * pow(r, 2);      
 
     cout << "Area of circule: " << c << endl;
 
